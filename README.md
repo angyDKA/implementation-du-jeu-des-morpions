@@ -30,7 +30,7 @@ Ce projet m’a permis de mettre en pratique :
 | 4 | X | 6 |
 +---+---+---+
 | 7 | 8 | 9 |
-
++---+---+---+
 À ton tour de jouer, entre un nombre entre 1 et 9 :
 ```
 
@@ -42,5 +42,5 @@ Ce projet m’a permis de mettre en pratique :
 
 ## Auteur
 
-Ange Nolwen Djuissi Kenmoe  
+Ange Nolwen DJUISSI KENMOE 
 Projet personnel – Python 3
